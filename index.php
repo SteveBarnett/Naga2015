@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="en" class="no-js">
-
-  <?php include("header.php"); ?>
-
-<body>
+<?php include("header.php"); ?>
 
 	<ul>
 		<li><a href="/atoms/">atoms</a></li>
@@ -34,6 +29,4 @@
 
 	</article>
 
-</body>
-
-</html>
+<?php include("footer.php"); ?>
