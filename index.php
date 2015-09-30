@@ -5,6 +5,13 @@
 
 <body>
 
+	<ul>
+		<li><a href="/atoms/">atoms</a></li>
+		<li><a href="/molecules/">molecules</a></li>
+	</ul>
+
+	<hr>
+
 	<article id="post-1355" class="hentry">
 		<header>
 			<h2 class="entry-title"><a href="http://naga.co.za/2015/09/14/code-prototype-vs-production/" title="Permalink to Code: prototype vs production" rel="bookmark">Code: prototype vs production</a></h2>
